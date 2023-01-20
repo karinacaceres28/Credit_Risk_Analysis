@@ -11,37 +11,49 @@ describe the balanced accuracy scores and the precision and recall scores of all
 ### Native Random Oversampling
 <img width="711" alt="NativeRandomOversampling 1" src="https://user-images.githubusercontent.com/110318652/213596213-4e889eb0-336f-4629-a085-b2f3f3ef9c1f.png">
     - Balance Accuracy Score:
+    
     - Precision:
+    
     - Recall Score:
 
 ### SMOTE Oversampling
 <img width="702" alt="SMOTE-Oversampling 2" src="https://user-images.githubusercontent.com/110318652/213597265-14ae46e0-793c-4ea8-8625-fc2ca19715ee.png">
     - Balance Accuracy Score:
+    
     - Precision:
+    
     - Recall Score:
 
 ### Undersampling - ClusterCentroids
 <img width="697" alt="ClusterCentroidsUndersamping 3" src="https://user-images.githubusercontent.com/110318652/213596231-fb3e8fd5-9ad0-4454-aabe-56e0e2349599.png">
     - Balance Accuracy Score:
+    
     - Precision:
+    
     - Recall Score:
 
 ### Combination Sampling - SMOTEENN
 <img width="704" alt="SMOTEEN- Combination Sampling 4" src="https://user-images.githubusercontent.com/110318652/213596245-82c33917-b091-4851-bfdc-151f2eb39b59.png">
     - Balance Accuracy Score:
+    
     - Precision:
+    
     - Recall Score:
 
 ### Balance Random Forest Classifier
 <img width="702" alt="BalancedRandomForestClassifier 5" src="https://user-images.githubusercontent.com/110318652/213596265-d1cc77d0-4e0a-47ff-8f70-b7fe84cdb76b.png">
     - Balance Accuracy Score:
+    
     - Precision:
+    
     - Recall Score:
 
 ### Easy Essemble Classifier
 <img width="698" alt="EasyEnsembleClassifier 6" src="https://user-images.githubusercontent.com/110318652/213596306-528f8a0c-c5d7-440e-ac27-ef9ccf4376c5.png">
     - Balance Accuracy Score:
+    
     - Precision:
+    
     - Recall Score:
 
 ## Summary
