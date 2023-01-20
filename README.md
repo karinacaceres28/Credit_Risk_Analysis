@@ -10,7 +10,7 @@ The purpose of this project was to predict credit risk by using Python to build 
 
 
 ### SMOTE Oversampling
-<img width="697" alt="SMOTE-Oversampling 2" src="https://user-images.githubusercontent.com/110318652/213596223-5d87921d-53af-4c5d-b3f8-4d40ec0e8d41.png">
+<img width="702" alt="SMOTE-Oversampling 2" src="https://user-images.githubusercontent.com/110318652/213597265-14ae46e0-793c-4ea8-8625-fc2ca19715ee.png">
 
 
 ### Undersampling - ClusterCentroids
