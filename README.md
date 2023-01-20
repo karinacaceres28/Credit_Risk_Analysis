@@ -4,8 +4,6 @@
 The purpose of this project was to predict credit risk by using Python to build and evaluate several machine learning models. While using the credit card credit dataset, oversampling the data was done using the RandomOverSampler and SMOTE algorithms, and undersampling using the ClusterCentroids algorithm. The over and undersampling combinational approach was done using the SMOTEEN algorithm. The two machine learning modules BalanceRandomForestClassifier and EasyEnsemnleClassifier were used to reduce bias and predict the credit risk.
 
 
-describe the balanced accuracy scores and the precision and recall scores of all six machine learning models. Use screenshots of your outputs to support your results.
-
 ## Results
 
 ### Native Random Oversampling
