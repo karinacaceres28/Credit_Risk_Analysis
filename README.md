@@ -10,6 +10,7 @@ describe the balanced accuracy scores and the precision and recall scores of all
 
 ### Native Random Oversampling
 <img width="711" alt="NativeRandomOversampling 1" src="https://user-images.githubusercontent.com/110318652/213596213-4e889eb0-336f-4629-a085-b2f3f3ef9c1f.png">
+    
     - Balance Accuracy Score:
     
     - Precision:
@@ -18,10 +19,9 @@ describe the balanced accuracy scores and the precision and recall scores of all
 
 ### SMOTE Oversampling
 <img width="702" alt="SMOTE-Oversampling 2" src="https://user-images.githubusercontent.com/110318652/213597265-14ae46e0-793c-4ea8-8625-fc2ca19715ee.png">
-        - Balance Accuracy Score:
     
+    - Balance Accuracy Score:
     - Precision:
-    
     - Recall Score:
 
 ### Undersampling - ClusterCentroids
