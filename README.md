@@ -50,3 +50,4 @@ The purpose of this project was to predict credit risk by using Python to build 
     
     
 ## Summary
+The results indicate that the EasyEnsembleClassifier model had the best accuracy rate, yielding 92% accuracy. It also showed to yield 9% precision for the high-risk candidates. It was also shown to have the highest recall score, showing 91% for high_risk and 94% for low_risk. The remaining five models did not yield higher than 80% balance accuracy. The precision score was also shown to be similar for all models, high-risk ranging 0.01 – 0.07 and low-risk having 1.00 for each. The EasyEnsembleClassifier model has shown to be the better model for predicting the credit risk and any further credit card analysis.
